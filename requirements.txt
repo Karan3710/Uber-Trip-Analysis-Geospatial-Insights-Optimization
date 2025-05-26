@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+pandas
+numpy
+scikit-learn
+plotly
+folium
+streamlit-folium
+openrouteservice
+requests
